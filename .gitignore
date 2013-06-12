@@ -39,6 +39,7 @@
 *.psess
 *#
 .#*
+.idea
 
 /src/mongo/*/*Debug*/
 /src/mongo/*/*/*Debug*/
